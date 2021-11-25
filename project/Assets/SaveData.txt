@@ -1,0 +1,1 @@
+{"DeathCounter":1,"GameLevel":"Level02","PositionData":{"x":113.05059051513672,"y":30.17333221435547,"z":0.0},"RotationData":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"PlayerStateData":5,"PlayerSizeData":1}

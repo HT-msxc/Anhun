@@ -1,0 +1,2 @@
+I:\XiShanJu\安魂\Project2\Anhun\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+I:\XiShanJu\安魂\Project2\Anhun\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
